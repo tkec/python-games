@@ -1,3 +1,3 @@
 # python-games
 
-some game code by gpt
+some games code by gpt
